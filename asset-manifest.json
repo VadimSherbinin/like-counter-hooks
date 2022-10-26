@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/like-counter-hooks/static/css/main.073c9b0a.css",
+    "main.js": "/like-counter-hooks/static/js/main.62b5cb70.js",
+    "static/js/787.c6cb334d.chunk.js": "/like-counter-hooks/static/js/787.c6cb334d.chunk.js",
+    "static/media/logo.svg": "/like-counter-hooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/like-counter-hooks/index.html",
+    "main.073c9b0a.css.map": "/like-counter-hooks/static/css/main.073c9b0a.css.map",
+    "main.62b5cb70.js.map": "/like-counter-hooks/static/js/main.62b5cb70.js.map",
+    "787.c6cb334d.chunk.js.map": "/like-counter-hooks/static/js/787.c6cb334d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.62b5cb70.js"
+  ]
+}
